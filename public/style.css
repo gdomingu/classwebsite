@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1 {
+
+}
+#content {
+	background-color: grey;
+}
+body {
+	margin: 0;
+	height: auto;
+}
+
+footer{
+	margin-top: 50px;
+
+}
